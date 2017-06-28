@@ -1,0 +1,475 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>双合口腔</title>
+<meta name="keywords" content="周先明口腔种植主任" />
+<meta name="description" content="周先明，永清院院长，从事口腔临床工作20多年，有着丰富的种植牙经验。擅长各类牙列缺失种植、即刻种植、前牙美容种植修复、多颗牙种植、微创种植等国际先进种植技术等。" />
+<link href="css/Default.css" rel="stylesheet" type="text/css" />
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="logo wrap">
+      <img src="images/logo.jpg">
+      <p></p>
+    </div>
+    <div class="nav">
+      <div class="wrap">
+        <ul>
+          <li><a href="javascript:;">网站首页</a></li>
+          <li><a href="javascript:;">关于双合</a></li>
+          <li><a href="javascript:;">特色医疗</a></li>
+          <li><a href="javascript:;">服务项目</a></li>
+          <li><a href="javascript:;">疑难问题</a></li>
+          <li><a href="javascript:;">成功案例</a></li>
+          <li><a href="javascript:;">爱牙公益</a></li>
+          <li><a href="javascript:;">优惠活动</a></li>
+          <li><a href="javascript:;">联系我们</a></li>
+        </ul>
+      </div>
+      <div class="subnav">
+        <div class="wrap">
+          <div class="sub-about sub-nav">
+            <ul>
+              <li><a href="javascript:;">双合动态</a></li>
+              <li><a href="javascript:;">医疗团队</a></li>
+              <li><a href="javascript:;">学术交流</a></li>
+              <li><a href="javascript:;">双合荣誉</a></li>
+              <li><a href="javascript:;">五星环境</a></li>
+              <li><a href="javascript:;">高端设备</a></li>
+            </ul>
+          </div>
+          <div class="sub-special sub-nav">
+            <ul>
+              <li><a href="javascript:;">牙齿种植</a></li>
+              <li><a href="javascript:;">牙齿矫正</a></li>
+              <li><a href="javascript:;">隐形矫正</a></li>
+              <li><a href="javascript:;">瓷贴面</a></li>
+              <li><a href="javascript:;">美牙冠</a></li>
+              <li><a href="javascript:;">缺牙镶牙</a></li>
+              <li><a href="javascript:;">烤瓷牙</a></li>
+              <li><a href="javascript:;">全瓷牙</a></li>
+              <li><a href="javascript:;">牙齿美白</a></li>
+              <li><a href="javascript:;">儿童牙齿</a></li>
+              <li><a href="javascript:;">拔牙</a></li>
+              <li><a href="javascript:;">牙疼治疗</a></li>
+              <li><a href="javascript:;">洁牙</a></li>
+              <li><a href="javascript:;">牙周治疗</a></li>
+            </ul>
+          </div>
+          <div class="sub-item sub-nav">
+            <ul>牙齿种植
+              <li><a href="javascript:;">全口缺牙</a></li>
+              <li><a href="javascript:;">半口缺失</a></li>
+              <li><a href="javascript:;">多颗缺失</a></li>
+              <li><a href="javascript:;">单颗缺失</a></li>
+              <li><a href="javascript:;">即刻种植</a></li>
+              <li><a href="javascript:;">单颗缺失</a></li>
+              <li><a href="javascript:;">美学种植</a></li>
+            </ul>
+            <ul>牙齿矫正
+              <li><a href="javascript:;">龅（暴）牙</a></li>
+              <li><a href="javascript:;">地包天</a></li>
+              <li><a href="javascript:;">牙间隙</a></li>
+              <li><a href="javascript:;">牙齿不齐</a></li>
+              <li><a href="javascript:;">牙错位</a></li>
+              <li><a href="javascript:;">牙齿拥挤</a></li>
+              <li><a href="javascript:;">前牙开颌</a></li>
+              <li><a href="javascript:;">双颌前突</a></li>
+            </ul>
+            <ul>牙齿美白
+              <li><a href="javascript:;">烤瓷牙</a></li>
+              <li><a href="javascript:;">冷光美白</a></li>
+              <li><a href="javascript:;">瓷贴面修复</a></li>
+              <li><a href="javascript:;">树脂美学修复</a></li>
+              <li><a href="javascript:;">牙色异常</a></li>
+              <li><a href="javascript:;">形态异常</a></li>
+            </ul>
+            <ul>儿童牙齿
+              <li><a href="javascript:;">蛀牙龋齿</a></li>
+              <li><a href="javascript:;">恒牙不萌 </a></li>
+              <li><a href="javascript:;">乳牙滞留</a></li>
+              <li><a href="javascript:;">窝沟封闭</a></li>
+              <li><a href="javascript:;">无痛补牙</a></li>
+              <li><a href="javascript:;">儿童正畸</a></li>
+            </ul>
+            <ul>全科牙齿
+              <li><a href="javascript:;">根管治疗</a></li>
+              <li><a href="javascript:;">牙周炎</a></li>
+              <li><a href="javascript:;">牙龈炎</a></li>
+              <li><a href="javascript:;">口腔溃疡</a></li>
+              <li><a href="javascript:;">牙齿松动</a></li>
+              <li><a href="javascript:;">无痛拔牙</a></li>
+              <li><a href="javascript:;">智齿</a></li>
+              <li><a href="javascript:;">假牙</a></li>
+              <li><a href="javascript:;">镶牙</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="banner">
+      <div class="hd">
+        <ul></ul>
+      </div>
+      <div class="bd">
+        <ul>
+          <li style="background: url(images/b1.jpg) no-repeat center;background-size: cover;"></li>
+          <li style="background: url(images/b2.jpg) no-repeat center;background-size: cover;"></li>
+        </ul>
+      </div>
+    </div>
+    <div class="special wrap">
+      <a class="prev iconfont">&#xe603;</a>
+      <a class="next iconfont">&#xe601;</a>
+      <div class="bd wrap">
+        <ul>
+          <li><a href="javascript:;"><span class="iconfont">&#xe688;</span>牙齿种植</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe602;</span>牙齿矫正</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe619;</span>隐形矫正</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe67f;</span>瓷贴面</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe686;</span>美牙冠</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe687;</span>缺牙镶牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe611;</span>烤瓷牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe613;</span>全瓷牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe600;</span>牙齿美白</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe638;</span>儿童牙齿</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe689;</span>拔牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe67e;</span>牙疼治疗</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe684;</span>洁牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe64e;</span>牙周治疗</a></li>
+        </ul>
+      </div>
+    </div>
+<div class="SiteSkin">
+
+  <div class="ObjLeft">
+  <div class="NavSkin">
+    <div class="NavTop"></div>
+    <ul class="NavList">
+      <li><a href="/about/about.html" target="_blank" >关于双合 / About</a></li>
+      <li><a href="/news/"  target="_blank">特色医疗 / Characteristics</a></li>
+      <li><a href="/case/" target="_blank" >服务项目/ Service item </a></li>
+      <li><a href="/environment/" target="_blank" >双合案例 / Case</a></li>
+      <li><a href="/zjtd/" target="_blank" >医生简介 / Profile </a></li>
+      <li><a href="/about/ysfc.html" target="_blank" >医院环境 / Environment </a></li>
+      <li><a href="/about/job.html" target="_blank" >学术交流 / Academic exchange </a></li>
+      <li><a href="/about/process.html"  target="_blank">就诊流程 / Process </a></li>
+      <li><a href="/about/beihu.html" target="_blank" >联系我们 / Contacts </a></li>
+    </ul>
+    <div class="NavEnd"></div>
+  </div>
+</div>
+
+
+  <div class="ObjRight">
+
+    <div class="ArticleTop">
+
+      <div class="Site"><span>当前位置:</span> <a href='/'>首页</a> > <a href='/about/'>关于双合</a> > <a href='/zjtd/'>医疗团队</a> > </div>
+
+    </div>
+
+    <div class="ArcSkin">
+
+      <div class="ArticleTitle">周先明</div>
+
+      <div class="ArticleMin">
+
+        <p><span>来源:</span>双合口腔<span> 更新时间:</span>2013-10-18 09:08 <span>点击:</span><script src="other/count.php?view=yes&aid=2902&mid=1" type='text/javascript' language="javascript"></script>次</p>
+
+      </div>
+
+      <div class="ArticleInfo"><span class="Art_zy">摘要:</span>周先明，永清院院长，从事口腔临床工作20多年，有着丰富的种植牙经验。擅长各类牙列缺失种植、即刻种植、前牙美容种植修复、多颗牙种植、微创种植等国际先进种植技术等。</div>
+
+      <div class="Article"><p><div style="text-align: center">
+
+	<img alt="" src="images/5-160602151312M7.jpg" style="width: 400px; height: 600px;" /><br />
+
+	&nbsp;</div>
+
+<p style="text-align: center">
+
+	<strong>周先明</strong></p>
+
+<div style="text-align: center">
+
+	永清院院长</div>
+
+<div style="text-align: center">
+
+	美国IAID国际植牙学会会员</div>
+
+<div style="text-align: center">
+
+	中华口腔医学会种植专委会会员</div>
+
+<div style="text-align: center">
+
+	瑞典诺贝尔、法国安多健种植系统中国区指定医生</div>
+
+<p style="text-align: center">
+
+	　　</p>
+
+<p>
+
+	<strong>　　擅长领域：</strong></p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　国际无痛种植术、微创无痛种植技术、即刻种植技术、各类种植体修复、自锁托槽正畸、美国透明陶瓷正畸、美国3M全透明隐形正畸、牙齿美牙冠、牙齿美学修复等。</p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	<strong>　　从医经历：</strong></p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　从事口腔临床工作20多年，有着丰富的种植牙经验。擅长各类牙列缺失种植、即刻种植、前牙美容种植修复、多颗牙种植、微创种植等国际先进种植技术，在牙齿种植上颇具造诣，并对各种牙齿种植技术有着独特见解。2010年开始主攻种植修复和前牙的美学设计，并成功完成大量种植牙修复案例。认真、负责、重信是他的做人宗旨也是行医宗旨，&ldquo;大医精诚&rdquo;是他的座右铭，他也是以这样的态度不断学习，提高自己的医术。</p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	<strong>　　医学成就：</strong></p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　20多年专业口腔临床经验，曾先后多次赴韩国、法国等地进行种植牙交流学习，分别获得韩国登腾种植资格证书、法国安多健种植资格证书。并多次应邀参加各种国际种植系统研讨会及口腔医学相关交流会，以自身独特的技术优势在业界颇负盛名。</p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	<strong>　　学术交流：</strong></p>
+
+<p>
+
+	　　 &nbsp;&nbsp;</p>
+
+<p>
+
+	　　2009-2012年，曾先后多次赴韩国交流学习口腔种植牙先进技术，并多次受邀到北京、上海等一线城市参加口腔种植学术交流会并做重要发言，在业内颇具影响力。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	　　<img alt="" src="images/5-1F2111422544H.jpg" style="width: 600px; height: 407px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2013年，多次赴韩国首尔、釜山等地知名口腔医院交流学习牙齿种植、口腔美容、明星美牙冠等领先技术，获得医生学者的推崇与高度评价，并作为中方代表在会议上发表讲话。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	　　<img alt="" src="images/5-1F211142313b1.jpg" style="width: 600px; height: 194px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2014年4月，周院长受邀参加美国哈佛大学口腔医学院开设的种植牙专题研讨会，与中、韩、英、美等全球30多位口腔界种植学牙高端医生（哈佛大学口腔医学院及波士顿大学MA David M Kim博士，英国马里兰大学临床副教授Wahn Khang博士，哈佛大学口腔医学院临床教授Miguel Vidal博士，哈佛大学口腔医学院导师John Chang博士等）共同研讨种植牙修复课程，因表现出众，获得美国哈佛大学口腔医学院颁发的证书！<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	　　<img alt="" src="images/5-1F211142326332.jpg" style="width: 600px; height: 581px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2014年5月，受邀到上海参加骨再生基金会中国区大会，并就高难度口腔种植话题在大会上与国内外知名医生、教授进行交流分享，深入浅出的讲解获得与会医生的高度认可。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	　　<img alt="" src="images/5-1F211142340453.jpg" style="width: 600px; height: 267px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2014年9月，受邀前往杭州参加北大口腔医院主办的口腔种植研讨会。并在研讨会上就&ldquo;复杂口腔植牙技术&rdquo;的课题，在研讨会上与大家进行了分享，获得了与会医生的一直认可和高度赞扬。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	　　<img alt="" src="images/5-1F21114243H55.jpg" style="width: 600px; height: 199px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2014年11月 再次受邀赴韩参加为期一周的医师培训和种植牙学术交流，通过学术讲座、参观种植工厂、访问韩国各大口腔医院等方式对韩国的口腔种植理念、种植技术全方位了解，并和韩国口腔种植医生面对面深入交流和沟通，其严谨认真的工作态度、娴熟的口腔种植操作、灵活的的手术技巧得到韩国口腔种植医生的一致好评。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	<img alt="" src="images/5-1F211142534Y4.jpg" style="width: 600px; height: 197px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2015年1月 应韩国牙医学会会长的邀请，亮相韩国牙医学会2014学术年会暨口腔设备展览会(YESDEX 2014)，其现场病例操作演示成为本次大会的亮点之一。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	<img alt="" src="images/5-1F211142553617.jpg" style="width: 600px; height: 404px;" /><br />
+
+	&nbsp;</p>
+
+<p>
+
+	　　2015年11月 受美国牙医协会邀请赴美参加&ldquo;美国牙医协会(American Dental Association, ADA)2015年会&rdquo;，与口腔医疗界、学术界重量级人物近距离学习交流。并将实战案例分享给来自几十个国家逾千名医学精英共同探究，马里兰大学牙科学院Dr.Isabel Rambob、美国哥伦比亚大学干细胞研究中心毛剑教授、哥伦比亚大学牙周科主任Dr.Kang等国际享誉盛名的牙科大咖无不对其高超的医疗技术称赞不已。<br />
+
+	&nbsp;</p>
+
+<p style="text-align: center;">
+
+	<img alt="" src="images/5-1F211142643208.jpg" style="width: 600px; height: 600px;" /><br />
+
+	&nbsp;</p>
+
+<div>
+
+	<strong>　　案例展示（部分）：</strong><br />
+
+	&nbsp;</div>
+
+<div style="text-align: center;">
+
+	<strong><img alt="" src="images/5-1F211142154448.jpg" style="width: 600px; height: 181px;" /><br />
+
+	<br />
+
+	<img alt="" src="images/5-1F2111422092W.jpg" style="width: 600px; height: 181px;" /><br />
+
+	<br />
+
+	<img alt="" src="images/5-1F2111422224G.jpg" style="width: 600px; height: 181px;" /></strong><br />
+
+	<br />
+
+	<strong style="margin: 0px; padding: 0px; list-style: none; font-size: 14px; color: rgb(45, 45, 45); font-family: 'Microsoft YaHei'; line-height: 25px;"><a href="http://www.hbkqw.com/dialog_1.htm" style="margin: 0px; padding: 0px; list-style: none; color: rgb(96, 96, 96); text-decoration: none; outline: none; transition: all 0.1s linear 0s;" target="_blank">点此查看更多</a></strong></div>
+
+<p>
+
+	<strong>　　从医理念：</strong></p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　&ldquo;您灿烂的微笑是我追求的梦想！&rdquo;</p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	<strong>　　顾客评价：</strong></p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　周院长态度很好，对待病人有耐心，有什么疑问都会帮我们解答。</p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　周院长和蔼亲切，对待病人像朋友，治疗前会先详细讲解治疗过程，让治疗过程很轻松。</p>
+
+<p>
+
+	　　 &nbsp; &nbsp;</p>
+
+<p>
+
+	　　周院长技术娴熟，看病仔细，很放心！</p>
+
+<p>
+
+	　　</p>
+
+<p>
+
+	　　周院长很负责，复诊每次都打电话确认，很不错！</p>
+
+</p></div>
+
+      <div class="Article">
+
+             </div>
+
+      <div class="Art_lx"><a href="/dialog_1.htm" target="_blank" title="双合客服"><img src="images/wxts.gif" width="630" height="210" alt="" border="0"/></a></div>
+
+      <div class="UpDown">
+
+        <div class="Art_Up">下一篇：<a href='/zjtd/2903.html'>嵇强</a> </div>
+
+        <div class="Art_Down">上一篇：<a href='/zjtd/2901.html'>万碧涛</a> </div>
+
+      </div>
+
+    </div>
+
+    <div class="Clear"></div>
+
+    <div class="ArticleEnd"></div>
+
+  </div>
+
+  <div class="Clear"></div>
+
+</div>
+
+﻿﻿<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+<script src="js/common.js" type="text/javascript"></script>
+</body>
+
+</html>
+

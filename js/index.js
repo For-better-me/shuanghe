@@ -1,0 +1,20 @@
+
+  //banner
+  jQuery(".banner, .news, .case").slide({ titCell:".hd ul", mainCell:".bd ul", effect:"fold",  autoPlay:true, autoPage:true, interTime:6000, trigger:"click" ,delayTime:1000 }); 
+  jQuery(".team").slide({mainCell:".bd ul",autoPage:true,effect:"leftLoop",autoPlay:true,vis:4});
+
+  // 服务项目
+  $('.serve-sort .sort-con>ul>li').eq(0).show();
+  $('.serve-sort .sort-tit>ul>a').mouseenter(function(){
+    var sort_index = $(this).index();
+    console.log(sort_index);
+    // $(this).addClass('on').siblings('a').removeClass('on')
+    $('.serve-sort .sort-con>ul>li').eq(sort_index).stop(true).show('fast');
+    $('.serve-sort .sort-con>ul>li').eq(sort_index).siblings('li').stop(true).hide('fast');
+  })
+  //environment
+  $(".environment").slide({titCell:".hd li", mainCell:".bd ul", effect:"leftLoop", autoPlay:false, delayTime:300, triggerTime:50});  
+  $(".environment .hd").slide({ mainCell:"ul", effect:"leftLoop", autoPlay:false, delayTime:300, triggerTime:50,vis:5});
+  // 学术交流
+  jQuery(".talk").slide({titCell:"h3", targetCell:".talk-info",defaultIndex:1,effect:"slideDown",delayTime:300,returnDefault:true});
+  

@@ -1,0 +1,749 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>双合口腔·您身边的牙科管家</title>
+<meta name="description" content="石家庄双合是一家专业的口腔机构，经过10余年的努力，现已发展成为石家庄市一所集牙齿矫正、牙齿种植、牙齿修复、牙齿治疗、牙齿美白、口腔护理等为一体的专业口腔机构。石家庄双合口腔，专业只为您！"/>
+<meta name="keywords" content="石家庄双合口腔,石家庄正规的口腔医院" />
+<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+  <div class="index">
+    <div class="logo wrap">
+      <img src="images/logo.jpg">
+      <p></p>
+    </div>
+    <div class="nav">
+      <div class="wrap">
+        <ul>
+          <li><a href="javascript:;">网站首页</a></li>
+          <li><a href="javascript:;">关于双合</a></li>
+          <li><a href="javascript:;">特色医疗</a></li>
+          <li><a href="javascript:;">服务项目</a></li>
+          <li><a href="javascript:;">疑难问题</a></li>
+          <li><a href="javascript:;">成功案例</a></li>
+          <li><a href="javascript:;">爱牙公益</a></li>
+          <li><a href="javascript:;">优惠活动</a></li>
+          <li><a href="javascript:;">联系我们</a></li>
+        </ul>
+      </div>
+      <div class="subnav">
+        <div class="wrap">
+          <div class="sub-about sub-nav">
+            <ul>
+              <li><a href="javascript:;">双合动态</a></li>
+              <li><a href="javascript:;">医疗团队</a></li>
+              <li><a href="javascript:;">学术交流</a></li>
+              <li><a href="javascript:;">双合荣誉</a></li>
+              <li><a href="javascript:;">五星环境</a></li>
+              <li><a href="javascript:;">高端设备</a></li>
+            </ul>
+          </div>
+          <div class="sub-special sub-nav">
+            <ul>
+              <li><a href="javascript:;">牙齿种植</a></li>
+              <li><a href="javascript:;">牙齿矫正</a></li>
+              <li><a href="javascript:;">隐形矫正</a></li>
+              <li><a href="javascript:;">瓷贴面</a></li>
+              <li><a href="javascript:;">美牙冠</a></li>
+              <li><a href="javascript:;">缺牙镶牙</a></li>
+              <li><a href="javascript:;">烤瓷牙</a></li>
+              <li><a href="javascript:;">全瓷牙</a></li>
+              <li><a href="javascript:;">牙齿美白</a></li>
+              <li><a href="javascript:;">儿童牙齿</a></li>
+              <li><a href="javascript:;">拔牙</a></li>
+              <li><a href="javascript:;">牙疼治疗</a></li>
+              <li><a href="javascript:;">洁牙</a></li>
+              <li><a href="javascript:;">牙周治疗</a></li>
+            </ul>
+          </div>
+          <div class="sub-item sub-nav">
+            <ul>牙齿种植
+              <li><a href="javascript:;">全口缺牙</a></li>
+              <li><a href="javascript:;">半口缺失</a></li>
+              <li><a href="javascript:;">多颗缺失</a></li>
+              <li><a href="javascript:;">单颗缺失</a></li>
+              <li><a href="javascript:;">即刻种植</a></li>
+              <li><a href="javascript:;">单颗缺失</a></li>
+              <li><a href="javascript:;">美学种植</a></li>
+            </ul>
+            <ul>牙齿矫正
+              <li><a href="javascript:;">龅（暴）牙</a></li>
+              <li><a href="javascript:;">地包天</a></li>
+              <li><a href="javascript:;">牙间隙</a></li>
+              <li><a href="javascript:;">牙齿不齐</a></li>
+              <li><a href="javascript:;">牙错位</a></li>
+              <li><a href="javascript:;">牙齿拥挤</a></li>
+              <li><a href="javascript:;">前牙开颌</a></li>
+              <li><a href="javascript:;">双颌前突</a></li>
+            </ul>
+            <ul>牙齿美白
+              <li><a href="javascript:;">烤瓷牙</a></li>
+              <li><a href="javascript:;">冷光美白</a></li>
+              <li><a href="javascript:;">瓷贴面修复</a></li>
+              <li><a href="javascript:;">树脂美学修复</a></li>
+              <li><a href="javascript:;">牙色异常</a></li>
+              <li><a href="javascript:;">形态异常</a></li>
+            </ul>
+            <ul>儿童牙齿
+              <li><a href="javascript:;">蛀牙龋齿</a></li>
+              <li><a href="javascript:;">恒牙不萌 </a></li>
+              <li><a href="javascript:;">乳牙滞留</a></li>
+              <li><a href="javascript:;">窝沟封闭</a></li>
+              <li><a href="javascript:;">无痛补牙</a></li>
+              <li><a href="javascript:;">儿童正畸</a></li>
+            </ul>
+            <ul>全科牙齿
+              <li><a href="javascript:;">根管治疗</a></li>
+              <li><a href="javascript:;">牙周炎</a></li>
+              <li><a href="javascript:;">牙龈炎</a></li>
+              <li><a href="javascript:;">口腔溃疡</a></li>
+              <li><a href="javascript:;">牙齿松动</a></li>
+              <li><a href="javascript:;">无痛拔牙</a></li>
+              <li><a href="javascript:;">智齿</a></li>
+              <li><a href="javascript:;">假牙</a></li>
+              <li><a href="javascript:;">镶牙</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="banner">
+      <div class="hd">
+        <ul></ul>
+      </div>
+      <div class="bd">
+        <ul>
+          <li style="background: url(images/b1.jpg) no-repeat center;background-size: cover;"></li>
+          <li style="background: url(images/b2.jpg) no-repeat center;background-size: cover;"></li>
+        </ul>
+      </div>
+    </div>
+    <div class="special wrap">
+      <a class="prev iconfont">&#xe603;</a>
+      <a class="next iconfont">&#xe601;</a>
+      <div class="bd wrap">
+        <ul>
+          <li><a href="javascript:;"><span class="iconfont">&#xe688;</span>牙齿种植</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe602;</span>牙齿矫正</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe619;</span>隐形矫正</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe67f;</span>瓷贴面</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe686;</span>美牙冠</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe687;</span>缺牙镶牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe611;</span>烤瓷牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe613;</span>全瓷牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe600;</span>牙齿美白</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe638;</span>儿童牙齿</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe689;</span>拔牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe67e;</span>牙疼治疗</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe684;</span>洁牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe64e;</span>牙周治疗</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="activity">
+      <div class="title">
+        <div class="wrap">
+          <h4><span class="iconfont">&#xe655;</span>双合活动</h4>
+        </div>
+      </div>
+      <div class="wrap">
+        <div class="activity-info">
+          <div class="news">
+            <div class="hd">
+              <ul></ul>
+            </div>
+            <div class="bd">
+              <ul>
+                <li><a href="javascript:;"><img src="images/news.jpg"><p>ddd</p></a></li>
+                <li><a href="javascript:;"><img src="images/news.jpg"><p>ddd</p></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="news-list">
+            <h5>单位合作</h5>
+            <ul>
+              <li><a href="javascript:;">命中注定的概率就是百分之百<span>2017-09-28</span></a></li>
+              <li><a href="javascript:;">命中注定的概率就是百分之百<span>2017-09-28</span></a></li>
+              <li><a href="javascript:;">命中注定的概率就是百分之百<span>2017-09-28</span></a></li>
+            </ul>
+          </div>
+          <div class="youhui">
+            <h5>优惠活动</h5>
+            <div class="hd">
+              <ul></ul>
+            </div>
+            <div class="bd">
+              <ul>
+                <li><a href="javascript:;"><img src="images/yh.jpg"></a></li>
+                <li><a href="javascript:;"><img src="images/yh1.jpg"></a></li>
+                <li><a href="javascript:;"><img src="images/yh3.jpg"></a></li>
+                <li><a href="javascript:;"><img src="images/yh2.jpg"></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="team">
+      <div class="title">
+        <div class="wrap">
+          <h4><span class="iconfont">&#xe629;</span>医疗团队</h4>
+        </div>
+      </div>
+      <div class="member-list wrap">
+        <a href="javascript:;" class="prev iconfont">&#xe61a;</a>
+        <a href="javascript:;" class="next iconfont">&#xe608;</a>
+        <div class="bd">
+          <ul>
+            
+            <li>
+              <a href="javascript:;"><img src="images/member2.jpg">
+                <div class="member-info">
+                  <h2>李雅楠</h2>
+                  <p>
+                    <span>口腔执业医师;</span>
+                    <span>中华口腔医学会会员;</span>
+                    <span>河北口腔医学会会员;</span>
+                    <span>双合口腔平安门诊主诊医师;</span>
+                  </p>
+                  <p><strong>个人擅长：</strong>现代根管治疗，牙齿缺损修复，儿童牙科</p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="javascript:;"><img src="images/member1.jpg">
+                <div class="member-info">
+                  <h2>于洁</h2>
+                  <p>
+                    <span>中华口腔医学会正畸专业委员会专科会员;</span>
+                    <span>中国医师协会口腔医师分会会员</span>
+                    <span>中华医学会口腔分会会员;</span>
+                    <span>河北省医师协会会员;</span>
+                  </p>
+                  <p><strong>个人擅长：</strong>儿童口腔医学，口腔正畸等。</p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="javascript:;"><img src="images/member2.jpg">
+                <div class="member-info">
+                  <h2>李雅楠</h2>
+                  <p>
+                    <span>口腔执业医师;</span>
+                    <span>中华口腔医学会会员;</span>
+                    <span>河北口腔医学会会员;</span>
+                    <span>双合口腔平安门诊主诊医师;</span>
+                  </p>
+                  <p><strong>个人擅长：</strong>现代根管治疗，牙齿缺损修复，儿童牙科</p>
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="javascript:;"><img src="images/member1.jpg">
+                <div class="member-info">
+                  <h2>于洁</h2>
+                  <p>
+                    <span>中华口腔医学会正畸专业委员会专科会员;</span>
+                    <span>中国医师协会口腔医师分会会员;</span>
+                    <span>中华医学会口腔分会会员;</span>
+                    <span>河北省医师协会会员;</span>
+                  </p>
+                  <p><strong>个人擅长：</strong>现代根管治疗，牙齿缺损修复，儿童牙科</p>
+                </div>
+              </a>
+            </li>
+            
+            
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="serve">
+      <div class="title">
+        <div class="wrap">
+          <h4><span class="iconfont">&#xe623;</span>服务项目</h4>
+        </div>
+      </div>
+      <div class="serve-sort wrap">
+        <div class="hd sort-tit">
+          <ul>
+            <a href="javascript:;" class="tit1"><li></li></a>
+            <a href="javascript:;" class="tit2"><li></li></a>
+            <a href="javascript:;" class="tit3"><li></li></a>
+            <a href="javascript:;" class="tit4"><li></li></a>
+            <a href="javascript:;" class="tit5"><li></li></a>
+          </ul>
+        </div>
+        <div class="bd sort-con">
+          <ul>
+            <li>
+              <div class="text">
+                <h3><a href="javascript:;">牙齿根管治疗一般要多长时间</a></h3>
+                <p>当我们出现牙痛、蛀牙严重的时候，医生通常会给我们生通常会给我们生通常会给我们生通常会给我们建议做牙齿根管治疗，但是根管治疗听着熟悉，实际上对此了解的人非……<a href="javascript:;">[了解全部]</a></p>
+                <ul>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗治疗治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般一般要多长时间</a></li>
+                </ul>
+              </div>
+              <div class="case">
+                <h3>相关案例</h3>
+                <div class="hd">
+                  <ul></ul>
+                </div>
+                <div class="bd">
+                  <ul>
+                    <li><a href="javascript:;">
+                      <img src="images/db.png">
+                      <div class="case-info">
+                        <h6>基本信息：</h6>
+                        <p>缺失4颗牙，男，39岁</p>
+                        <h5>项目：DIO种植体+氧化锆全瓷修复体</h5>
+                        <span>详情：该顾客2年前因上前牙缺失，佩戴的活动义齿异物感明显，进食易脱位</span>
+                      </div>
+                    </a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="text">
+                <h3><a href="javascript:;">牙齿根管治疗一般要多长时间</a></h3>
+                <p>当我们出现牙痛、蛀牙严重的时候，医生通常会给我们生通常会给我们生通常会给我们生通常会给我们建议做牙齿根管治疗，但是根管治疗听着熟悉，实际上对此了解的人非……<a href="javascript:;">[了解全部]</a></p>
+                <ul>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                </ul>
+              </div>
+              <div class="case">
+                <h3>相关案例</h3>
+                <div class="hd">
+                  <ul></ul>
+                </div>
+                <div class="bd">
+                  <ul>
+                    <li><a href="javascript:;">
+                      <img src="images/db.png">
+                      <div class="case-info">
+                        <h6>基本信息：</h6>
+                        <p>缺失4颗牙，男，39岁</p>
+                        <h5>项目：DIO种植体+氧化锆全瓷修复体</h5>
+                        <span>详情：该顾客2年前因上前牙缺失，佩戴的活动义齿异物感明显，进食易脱位</span>
+                      </div>
+                    </a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="text">
+                <h3><a href="javascript:;">牙齿根管治疗一般要多长时间</a></h3>
+                <p>当我们出现牙痛、蛀牙严重的时候，医生通常会给我们生通常会给我们生通常会给我们生通常会给我们建议做牙齿根管治疗，但是根管治疗听着熟悉，实际上对此了解的人非……<a href="javascript:;">[了解全部]</a></p>
+                <ul>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                </ul>
+              </div>
+              <div class="case">
+                <h3>相关案例</h3>
+                <div class="hd">
+                  <ul></ul>
+                </div>
+                <div class="bd">
+                  <ul>
+                    <li><a href="javascript:;">
+                      <img src="images/db.png">
+                      <div class="case-info">
+                        <h6>基本信息：</h6>
+                        <p>缺失4颗牙，男，39岁</p>
+                        <h5>项目：DIO种植体+氧化锆全瓷修复体</h5>
+                        <span>详情：该顾客2年前因上前牙缺失，佩戴的活动义齿异物感明显，进食易脱位</span>
+                      </div>
+                    </a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="text">
+                <h3><a href="javascript:;">牙齿根管治疗一般要多长时间</a></h3>
+                <p>当我们出现牙痛、蛀牙严重的时候，医生通常会给我们生通常会给我们生通常会给我们生通常会给我们建议做牙齿根管治疗，但是根管治疗听着熟悉，实际上对此了解的人非……<a href="javascript:;">[了解全部]</a></p>
+                <ul>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                </ul>
+              </div>
+              <div class="case">
+                <h3>相关案例</h3>
+                <div class="hd">
+                  <ul></ul>
+                </div>
+                <div class="bd">
+                  <ul>
+                    <li><a href="javascript:;">
+                      <img src="images/db.png">
+                      <div class="case-info">
+                        <h6>基本信息：</h6>
+                        <p>缺失4颗牙，男，39岁</p>
+                        <h5>项目：DIO种植体+氧化锆全瓷修复体</h5>
+                        <span>详情：该顾客2年前因上前牙缺失，佩戴的活动义齿异物感明显，进食易脱位</span>
+                      </div>
+                    </a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="text">
+                <h3><a href="javascript:;">牙齿根管治疗一般要多长时间</a></h3>
+                <p>当我们出现牙痛、蛀牙严重的时候，医生通常会给我们生通常会给我们生通常会给我们生通常会给我们建议做牙齿根管治疗，但是根管治疗听着熟悉，实际上对此了解的人非……<a href="javascript:;">[了解全部]</a></p>
+                <ul>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                  <li><a href="javascript:;"><span class="iconfont">&#xe618;</span>牙齿根管治疗一般要多长时间</a></li>
+                </ul>
+              </div>
+              <div class="case">
+                <h3>相关案例</h3>
+                <div class="hd">
+                  <ul></ul>
+                </div>
+                <div class="bd">
+                  <ul>
+                    <li><a href="javascript:;">
+                      <img src="images/db.png">
+                      <div class="case-info">
+                        <h6>基本信息：</h6>
+                        <p>缺失4颗牙，女，39岁</p>
+                        <h5>项目：DIO种植体+氧化锆全瓷修复体</h5>
+                        <span>详情：该顾客2年前因上前牙缺失，佩戴的活动义齿异物感明显，进食易脱位</span>
+                      </div>
+                    </a></li>
+                    <li><a href="javascript:;">
+                      <img src="images/db.png">
+                      <div class="case-info">
+                        <h6>基本信息：</h6>
+                        <p>缺失4颗牙，man，39岁</p>
+                        <h5>项目：DIO种植体+氧化锆全瓷修复体</h5>
+                        <span>详情：该顾客2年前因上前牙缺失，佩戴的活动义齿异物感明显，进食易脱位</span>
+                      </div>
+                    </a></li>
+                  </ul>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="environment">
+      <div class="title">
+        <div class="wrap">
+          <h4><span class="iconfont">&#xe6ff;</span>医疗环境</h4>
+        </div>
+      </div>
+      <div class="environment-con wrap">
+        <div class="environment-show">
+          <div class="bd">
+            <ul>
+              <li><img src="images/envir1.jpg"></li>
+              <li><img src="images/envir2.jpg"></li>
+              <li><img src="images/envir1.jpg"></li>
+              <li><img src="images/envir2.jpg"></li>
+              <li><img src="images/envir1.jpg"></li>
+              <li><img src="images/envir2.jpg"></li>
+            </ul>
+          </div>
+           <div class="hd">
+            <a href="javascript:;" class="prev"></a>
+            <a href="javascript:;" class="next"></a>
+            <ul>
+              <li><img src="images/envir1.jpg" alt="" /></li>
+              <li><img src="images/envir2.jpg" alt="" /></li>
+              <li><img src="images/envir1.jpg" alt="" /></li>
+              <li><img src="images/envir2.jpg" alt="" /></li>
+              <li><img src="images/envir1.jpg" alt="" /></li>
+              <li><img src="images/envir2.jpg" alt="" /></li>
+            </ul>
+          </div>
+        </div>
+        <div class="talk">
+          <h2>学术交流</h2>
+          <ul>
+            <li>
+              <h3>徐安斌院长、嵇强主任受邀出席2016登腾澳洲论坛</h3>
+              <div class="talk-info">
+                <img src="images/envir1.jpg">
+                <div class="talk-con">
+                  <p>2016年10月2日至1强主任受邀前往澳大利亚参加2016登腾澳洲论坛，与来自全球知名齿科大咖对未来种植事业的发展做出重要规划 ...<a href="javascript:;">查看更多>></a></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <h3>徐安斌院长、嵇强主任受邀出席2016登腾澳洲论坛</h3>
+              <div class="talk-info">
+                <img src="images/envir1.jpg">
+                <div class="talk-con">
+                  <p>2016年10月2日至1强主任受邀前往澳大利亚参加2016登腾澳洲论坛，与来自全球知名齿科大咖对未来种植事业的发展做出重要规划 ...<a href="javascript:;">查看更多>></a></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <h3>徐安斌院长、嵇强主任受邀出席2016登腾澳洲论坛</h3>
+              <div class="talk-info">
+                <img src="images/envir1.jpg">
+                <div class="talk-con">
+                  <p>2016年10月2日至1强主任受邀前往澳大利亚参加2016登腾澳洲论坛，与来自全球知名齿科大咖对未来种植事业的发展做出重要规划 ...<a href="javascript:;">查看更多>></a></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <h3>徐安斌院长、嵇强主任受邀出席2016登腾澳洲论坛</h3>
+              <div class="talk-info">
+                <img src="images/envir1.jpg">
+                <div class="talk-con">
+                  <p>2016年10月2日至1强主任受邀前往澳大利亚参加2016登腾澳洲论坛，与来自全球知名齿科大咖对未来种植事业的发展做出重要规划 ...<a href="javascript:;">查看更多>></a></p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <h3>徐安斌院长、嵇强主任受邀出席2016登腾澳洲论坛</h3>
+              <div class="talk-info">
+                <img src="images/envir1.jpg">
+                <div class="talk-con">
+                  <p>2016年10月2日至1强主任受邀前往澳大利亚参加2016登腾澳洲论坛，与来自全球知名齿科大咖对未来种植事业的发展做出重要规划 ...<a href="javascript:;">查看更多>></a></p>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="device">
+      <div class="title">
+        <div class="wrap">
+          <h4><span class="iconfont">&#xe628;</span>先进设备</h4>
+        </div>
+      </div>
+      <div class = "caroursel poster-main wrap" data-setting = '{
+          "width":1100,
+          "height":310,
+          "posterWidth":690,
+          "posterHeight":310,
+          "scale":0.8,
+          "dealy":"2000",
+          "algin":"middle"
+        }'>
+          <ul class = "poster-list">
+            <li class = "poster-item">
+              <img src="images/sb1.jpg" width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+            <li class = "poster-item">
+              <img src="images/sb2.jpg" width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+            <li class = "poster-item">
+              <img src="images/sb3.jpg" width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+            <li class = "poster-item">
+              <img src="images/sb4.jpg" width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+            <li class = "poster-item">
+              <img src="images/sb5.jpg" width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+            <li class = "poster-item">
+              <img src="images/sb6.jpg"  width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+            <li class = "poster-item">
+              <img src="images/sb3.jpg"  width = "100%" height="100%">
+              <p><strong>德国西诺德口腔CT机</strong>全面扫描口腔</p>
+            </li>
+          </ul>
+          <div class = "poster-btn poster-prev-btn"></div>
+          <div class = "poster-btn poster-next-btn"></div>
+        </div>
+    </div>
+    <div class="brand">
+      <div class="title">
+        <div class="wrap">
+          <h4><span class="iconfont">&#xe60f;</span>合作品牌</h4>
+        </div>
+      </div>
+      <div class="brand-list wrap">
+        <ul>
+          <li><img src="images/hz_13.jpg" alt="" /></li>
+          <li><img src="images/hz_16.jpg" alt="" /></li>
+          <li><img src="images/hz_18.jpg" alt="" /></li>
+          <li><img src="images/hz_13.jpg" alt="" /></li>
+          <li><img src="images/hz_16.jpg" alt="" /></li>
+          <li><img src="images/hz_18.jpg" alt="" /></li>
+          <li><img src="images/hz_13.jpg" alt="" /></li>
+          <li><img src="images/hz_16.jpg" alt="" /></li>
+          <li><img src="images/hz_18.jpg" alt="" /></li>
+          <li><img src="images/hz_13.jpg" alt="" /></li>
+          <li><img src="images/hz_16.jpg" alt="" /></li>
+          <li><img src="images/hz_18.jpg" alt="" /></li>
+        </ul>
+      </div>
+    </div>
+     <div class="wave-box">
+
+        <div class="marquee-box marquee-up" id="marquee-box">
+            <div class="marquee">
+                <div class="wave-list-box" id="wave-list-box1">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_02.png"></li>
+                    </ul>
+                </div>
+                <div class="wave-list-box" id="wave-list-box2">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_02.png"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="marquee-box" id="marquee-box3">
+            <div class="marquee">
+                <div class="wave-list-box" id="wave-list-box4">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_03.png"></li>
+                    </ul>
+                </div>
+                <div class="wave-list-box" id="wave-list-box5">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_03.png"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+      <div class="wrap">
+        <div class="footer-logo">
+          <img src="images/logo2.png" alt="" />
+        </div>
+        <div class="footer-info">
+          <div class="foot-nav">
+            <dl>
+              <dt><span class="iconfont">&#xe688;</span><a href="javascript:;">牙齿种植</a></dt>
+              <dd><a href="javascript:;">全口缺牙</a></dd>
+              <dd><a href="javascript:;">半口缺失</a></dd>
+              <dd><a href="javascript:;">颗缺失多</a></dd>
+              <dd><a href="javascript:;">单颗缺失</a></dd>
+              <dd><a href="javascript:;">即刻种植</a></dd>
+              <dd><a href="javascript:;">美学种植</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe602;</span><a href="javascript:;">牙齿矫正</a></dt>
+              <dd><a href="javascript:;">龅（暴）牙</a></dd>
+              <dd><a href="javascript:;">地包天</a></dd>
+              <dd><a href="javascript:;">牙间隙</a></dd>
+              <dd><a href="javascript:;">牙齿不齐</a></dd>
+              <dd><a href="javascript:;">牙错位</a></dd>
+              <dd><a href="javascript:;">牙齿拥挤</a></dd>
+              <dd><a href="javascript:;">前牙开颌</a></dd>
+              <dd><a href="javascript:;">双颌前突</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe600;</span><a href="javascript:;">牙齿美容</a></dt>
+              <dd><a href="javascript:;">烤瓷牙</a></dd>
+              <dd><a href="javascript:;">冷光美白</a></dd>
+              <dd><a href="javascript:;">瓷贴面修复</a></dd>
+              <dd><a href="javascript:;">树脂美学修复</a></dd>
+              <dd><a href="javascript:;">牙色异常</a></dd>
+              <dd><a href="javascript:;">形态异常</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe638;</span><a href="javascript:;">儿童牙齿</a></dt>
+              <dd><a href="javascript:;">蛀牙龋齿</a></dd>
+              <dd><a href="javascript:;">恒牙不萌 </a></dd>
+              <dd><a href="javascript:;">乳牙滞留</a></dd>
+              <dd><a href="javascript:;">窝沟封闭</a></dd>
+              <dd><a href="javascript:;">无痛补牙</a></dd>
+              <dd><a href="javascript:;">儿童正畸</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe65f;</span><a href="javascript:;">全科治疗</a></dt>
+              <dd><a href="javascript:;">根管治疗</a></dd>
+              <dd><a href="javascript:;">牙周炎</a></dd>
+              <dd><a href="javascript:;">牙龈炎</a></dd>
+              <dd><a href="javascript:;">口腔溃疡</a></dd>
+              <dd><a href="javascript:;">牙齿松动</a></dd>
+              <dd><a href="javascript:;">无痛拔牙</a></dd>
+              <dd><a href="javascript:;">智齿</a></dd>
+              <dd><a href="javascript:;">假牙</a></dd>
+              <dd><a href="javascript:;">镶牙</a></dd>
+            </dl>
+          </div>
+          <div class="foot-addr">
+            <p>中华北：中华北大街与市庄路交口北100米路西（博爱医院对面） 电话：0311-88887773 </p>
+            <p>平安北：和平路与平安大街交口南200米路东（礼域尚城北区西门） 电话：0311-86089069</p>
+            <p>北站：市庄路与泰华街交口东300米路北（汽车北站西邻） 电话：0311-87820248</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+</body>
+<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="js/jquery.SuperSlide.2.1.1.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
+<script type="text/javascript" src="js/scroll.js"></script>
+<script type="text/javascript" src="js/carouse.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script type="text/javascript">
+  Caroursel.init($('.caroursel'))
+  $(".demo1").scroller();
+</script>
+</html>

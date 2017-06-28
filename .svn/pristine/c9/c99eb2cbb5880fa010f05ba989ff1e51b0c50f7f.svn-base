@@ -1,0 +1,259 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>联系我们</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="css/Default.css" rel="stylesheet" type="text/css" />
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
+</head>
+<body>
+<style type="text/css" media="screen">
+  .listtab{float:left;}
+.listtab ul li {float: left;background: #1e84aa;margin-right: 20px;}
+.listtab ul li a{color:#f3f7f7;}
+.listtab ul li a:hover,.activetab{color:#fff;font-size:16px;background: #1274b3;}
+.activetab a{color:#fff;background: #1274b3;font-size:16px;}
+.activetab a:hover{color:#fff;font-size:16px;background: #1274b3;}
+.listtab ul li a{float:left;padding: 10px 35px 10px;text-decoration: none;font-size:16px;}
+.iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+.iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+</style>
+<div class="logo wrap">
+      <img src="images/logo.jpg">
+      <p></p>
+    </div>
+    <div class="nav">
+      <div class="wrap">
+        <ul>
+          <li><a href="javascript:;">首页</a></li>
+          <li><a href="javascript:;">双合动态</a></li>
+          <li><a href="javascript:;">精英团队</a></li>
+          <li><a href="javascript:;">牙齿保健</a></li>
+          <li><a href="javascript:;">精彩案例</a></li>
+          <li><a href="javascript:;">优惠活动</a></li>
+          <li><a href="javascript:;">爱牙公益</a></li>
+          <li>
+            <a href="javascript:;">关于双合</a>
+            <ol>
+              <li><a href="javascript:;">五星环境</a></li>
+              <li><a href="javascript:;">高端设备</a></li>
+              <li><a href="javascript:;">加入双合</a></li>
+              <li><a href="javascript:;">联系我们</a></li>
+            </ol>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="banner">
+      <div class="hd">
+        <ul></ul>
+      </div>
+      <div class="bd">
+        <ul>
+          <li style="background: url(images/b1.jpg) no-repeat center;background-size: cover;"></li>
+          <li style="background: url(images/b2.jpg) no-repeat center;background-size: cover;"></li>
+        </ul>
+      </div>
+    </div>
+    <div class="special wrap">
+      <div class="bd wrap">
+        <ul>
+          <li><a href="javascript:;"><span class="iconfont">&#xe688;</span>牙齿种植</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe602;</span>牙齿矫正</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe619;</span>隐形矫正</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe67f;</span>瓷贴面</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe686;</span>美牙冠</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe687;</span>缺牙镶牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe611;</span>烤瓷牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe613;</span>全瓷牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe600;</span>牙齿美白</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe638;</span>儿童牙齿</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe689;</span>拔牙</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe67e;</span>牙疼治疗</a></li>
+          <li><a href="javascript:;"><span class="iconfont">&#xe684;</span>洁牙</a></li>
+        </ul>
+      </div>
+    </div>
+<div class="SiteSkin">
+<div class="ObjLeft">
+  <div class="NavSkin">
+    <div class="NavTop"></div>
+    <ul class="NavList">
+      <li><a href="/about/about.html" target="_blank" >关于双合 / About</a></li>
+      <li><a href="/news/"  target="_blank">特色医疗 / Characteristics</a></li>
+      <li><a href="/case/" target="_blank" >服务项目/ Service item </a></li>
+      <li><a href="/environment/" target="_blank" >双合案例 / Case</a></li>
+      <li><a href="/zjtd/" target="_blank" >医生简介 / Profile </a></li>
+      <li><a href="/about/ysfc.html" target="_blank" >医院环境 / Environment </a></li>
+      <li><a href="/about/job.html" target="_blank" >学术交流 / Academic exchange </a></li>
+      <li><a href="/about/process.html"  target="_blank">就诊流程 / Process </a></li>
+      <li><a href="/about/beihu.html" target="_blank" >联系我们 / Contacts </a></li>
+    </ul>
+    <div class="NavEnd"></div>
+  </div>
+</div>
+  <div class="ObjRight">
+    <div class="ArticleTop">
+      <div class="Site"><span>当前位置:</span> 关于双合 > 联系我们 > 桥西院</div>
+    </div>
+
+	<div class="ArcSkin">
+      <div class="about1">
+      <div class="listtab">
+       <ul>
+      <li class="activetab"><a href="beihu.html" target="_blank">中华北院</a></li>
+      <li><a href="guanggu.html" target="_blank">平安北院</a></li>
+      <li><a href="zhongnan.html" target="_blank">北站分院</a></li>
+       </ul>
+       </div>
+		 <div style="color:#585858; width:640px; display:block;margin-top:40px;float:left;">
+		<img src="images/con-bh.jpg" style="width: 300px;height: 230px;float:left;padding:5px;background:#fff;border:solid 1px #d0d0d0;">
+		<div style="float:left; display:block; width:300px; padding-left:10px; line-height:24px;margin-left:10px;">
+		    <h2>双合口腔中华北院</h2>
+			<p>联系电话：027-85588555</p>
+		    <p><b>【桥西旗舰院】地址：</b>新华路桥西265号(长江证券大厦旁)</p>
+			  <p><b>【乘车路线】：</b>①（公交）：乘9路、207路、291路、294路、507路、519路、522路、527路、535路、561路、575路、595路、601路、604路、605路、610路、621路、705路、803路到新华路桥西站或新华路马场角站下车往江汉区政府方向前行200米（新华路桥西站）或500米（新华路马场角站）即到；<br />
+            </p>
+		</div>
+          <div style="float:left; display:block; width:640px; padding-left:10px; line-height:24px;">
+
+
+            <p>②地铁：<br />
+              乘地铁3号线至菱角湖站D出口出，沿长江日报路前行400米至新华路路口，再向江汉区政府方向前行200米即到。<br />
+              乘地铁2号线至王家墩东站C2出口出，行至建设大道与新华路交汇口向江汉区政府方向前行至长江证券大厦即到；或于王家墩东站D1出口出，前行至青年路与黄孝河西路交汇口沿黄孝河西路行至新华路，再由新华路向江汉区政府方向前行至长江证券大厦即到。<br />
+            </p>
+          </div>
+        </div>
+        <div style="color:#585858; width:640px;float:left;margin-top:20px;">
+          <p style="text-align: center"> </p>
+          <div style="width:640px; height:330px; border:5px solid #4FC4B1; margin:auto;" id="dituContent">
+
+        </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="Clear"></div>
+    <div class="ArticleEnd"></div>
+  </div>
+  <div class="Clear"></div>
+</div>
+     <div class="wave-box">
+
+        <div class="marquee-box marquee-up" id="marquee-box">
+            <div class="marquee">
+                <div class="wave-list-box" id="wave-list-box1">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_02.png"></li>
+                    </ul>
+                </div>
+                <div class="wave-list-box" id="wave-list-box2">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_02.png"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="marquee-box" id="marquee-box3">
+            <div class="marquee">
+                <div class="wave-list-box" id="wave-list-box4">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_03.png"></li>
+                    </ul>
+                </div>
+                <div class="wave-list-box" id="wave-list-box5">
+                    <ul>
+                        <li><img height="60" alt="波浪" src="images/wave_03.png"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+      <div class="wrap">
+        <div class="footer-logo">
+          <img src="images/logo2.png" alt="" />
+          <img src="images/wx.gif" class="wx">
+        </div>
+        <div class="footer-info">
+          <div class="foot-nav">
+            <dl>
+              <dt><span class="iconfont">&#xe688;</span><a href="javascript:;">牙齿种植</a></dt>
+              <dd><a href="javascript:;">全口缺牙</a></dd>
+              <dd><a href="javascript:;">半口缺失</a></dd>
+              <dd><a href="javascript:;">颗缺失多</a></dd>
+              <dd><a href="javascript:;">单颗缺失</a></dd>
+              <dd><a href="javascript:;">即刻种植</a></dd>
+              <dd><a href="javascript:;">美学种植</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe602;</span><a href="javascript:;">牙齿矫正</a></dt>
+              <dd><a href="javascript:;">龅（暴）牙</a></dd>
+              <dd><a href="javascript:;">地包天</a></dd>
+              <dd><a href="javascript:;">牙间隙</a></dd>
+              <dd><a href="javascript:;">牙齿不齐</a></dd>
+              <dd><a href="javascript:;">牙错位</a></dd>
+              <dd><a href="javascript:;">牙齿拥挤</a></dd>
+              <dd><a href="javascript:;">前牙开颌</a></dd>
+              <dd><a href="javascript:;">双颌前突</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe600;</span><a href="javascript:;">牙齿美容</a></dt>
+              <dd><a href="javascript:;">烤瓷牙</a></dd>
+              <dd><a href="javascript:;">冷光美白</a></dd>
+              <dd><a href="javascript:;">瓷贴面修复</a></dd>
+              <dd><a href="javascript:;">树脂美学修复</a></dd>
+              <dd><a href="javascript:;">牙色异常</a></dd>
+              <dd><a href="javascript:;">形态异常</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe638;</span><a href="javascript:;">儿童牙齿</a></dt>
+              <dd><a href="javascript:;">蛀牙龋齿</a></dd>
+              <dd><a href="javascript:;">恒牙不萌 </a></dd>
+              <dd><a href="javascript:;">乳牙滞留</a></dd>
+              <dd><a href="javascript:;">窝沟封闭</a></dd>
+              <dd><a href="javascript:;">无痛补牙</a></dd>
+              <dd><a href="javascript:;">儿童正畸</a></dd>
+            </dl>
+            <dl>
+              <dt><span class="iconfont">&#xe65f;</span><a href="javascript:;">全科治疗</a></dt>
+              <dd><a href="javascript:;">根管治疗</a></dd>
+              <dd><a href="javascript:;">牙周炎</a></dd>
+              <dd><a href="javascript:;">牙龈炎</a></dd>
+              <dd><a href="javascript:;">口腔溃疡</a></dd>
+              <dd><a href="javascript:;">牙齿松动</a></dd>
+              <dd><a href="javascript:;">无痛拔牙</a></dd>
+              <dd><a href="javascript:;">智齿</a></dd>
+              <dd><a href="javascript:;">假牙</a></dd>
+              <dd><a href="javascript:;">镶牙</a></dd>
+            </dl>
+          </div>
+          <div class="footer_nav_2">
+            <ul>
+              <li><a href="javascript:;">网站首页</a></li>
+              <li><a href="javascript:;">优惠活动</a></li>
+              <li><a href="javascript:;">医疗团队</a></li>
+              <li><a href="javascript:;">五星环境</a></li>
+              <li><a href="javascript:;">成功案例</a></li>
+            </ul>
+          </div>
+          <div class="foot-addr">
+            <p>中华北：中华北大街与市庄路交口北100米路西（博爱医院对面） 电话：0311-88887773 </p>
+            <p>平安北：和平路与平安大街交口南200米路东（礼域尚城北区西门） 电话：0311-86089069</p>
+            <p>北站：市庄路与泰华街交口东300米路北（汽车北站西邻） 电话：0311-87820248</p>
+          </div>
+         
+        </div>
+      </div>
+      <div class="banquan"><p>版权所有:石家庄双合口腔</p></div>
+    </div>
+﻿﻿ <script src="js/map.js"></script>
+<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+<script src="js/common.js" type="text/javascript"></script>
+</body>
+</html>

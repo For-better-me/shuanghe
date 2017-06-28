@@ -1,0 +1,354 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>双合口腔·您身边的牙科管家</title>
+<meta name="description" content="石家庄双合是一家专业的口腔机构，经过10余年的努力，现已发展成为石家庄市一所集牙齿矫正、牙齿种植、牙齿修复、牙齿治疗、牙齿美白、口腔护理等为一体的专业口腔机构。石家庄双合口腔，专业只为您！"/>
+<meta name="keywords" content="石家庄双合口腔,石家庄正规的口腔医院" />
+<link href="css/Default.css" rel="stylesheet" type="text/css" />
+<link href="css/index.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="logo wrap">
+  <img src="images/logo.jpg">
+  <p></p>
+</div>
+<div class="nav">
+  <div class="wrap">
+    <ul>
+      <li><a href="javascript:;">网站首页</a></li>
+      <li><a href="javascript:;">关于双合</a></li>
+      <li><a href="javascript:;">特色医疗</a></li>
+      <li><a href="javascript:;">服务项目</a></li>
+      <li><a href="javascript:;">疑难问题</a></li>
+      <li><a href="javascript:;">成功案例</a></li>
+      <li><a href="javascript:;">爱牙公益</a></li>
+      <li><a href="javascript:;">优惠活动</a></li>
+      <li><a href="javascript:;">联系我们</a></li>
+    </ul>
+  </div>
+  <div class="subnav">
+    <div class="wrap">
+      <div class="sub-about sub-nav">
+        <ul>
+          <li><a href="javascript:;">双合动态</a></li>
+          <li><a href="javascript:;">医疗团队</a></li>
+          <li><a href="javascript:;">学术交流</a></li>
+          <li><a href="javascript:;">双合荣誉</a></li>
+          <li><a href="javascript:;">五星环境</a></li>
+          <li><a href="javascript:;">高端设备</a></li>
+        </ul>
+      </div>
+      <div class="sub-special sub-nav">
+        <ul>
+          <li><a href="javascript:;">牙齿种植</a></li>
+          <li><a href="javascript:;">牙齿矫正</a></li>
+          <li><a href="javascript:;">隐形矫正</a></li>
+          <li><a href="javascript:;">瓷贴面</a></li>
+          <li><a href="javascript:;">美牙冠</a></li>
+          <li><a href="javascript:;">缺牙镶牙</a></li>
+          <li><a href="javascript:;">烤瓷牙</a></li>
+          <li><a href="javascript:;">全瓷牙</a></li>
+          <li><a href="javascript:;">牙齿美白</a></li>
+          <li><a href="javascript:;">儿童牙齿</a></li>
+          <li><a href="javascript:;">拔牙</a></li>
+          <li><a href="javascript:;">牙疼治疗</a></li>
+          <li><a href="javascript:;">洁牙</a></li>
+          <li><a href="javascript:;">牙周治疗</a></li>
+        </ul>
+      </div>
+      <div class="sub-item sub-nav">
+        <ul>牙齿种植
+          <li><a href="javascript:;">全口缺牙</a></li>
+          <li><a href="javascript:;">半口缺失</a></li>
+          <li><a href="javascript:;">多颗缺失</a></li>
+          <li><a href="javascript:;">单颗缺失</a></li>
+          <li><a href="javascript:;">即刻种植</a></li>
+          <li><a href="javascript:;">单颗缺失</a></li>
+          <li><a href="javascript:;">美学种植</a></li>
+        </ul>
+        <ul>牙齿矫正
+          <li><a href="javascript:;">龅（暴）牙</a></li>
+          <li><a href="javascript:;">地包天</a></li>
+          <li><a href="javascript:;">牙间隙</a></li>
+          <li><a href="javascript:;">牙齿不齐</a></li>
+          <li><a href="javascript:;">牙错位</a></li>
+          <li><a href="javascript:;">牙齿拥挤</a></li>
+          <li><a href="javascript:;">前牙开颌</a></li>
+          <li><a href="javascript:;">双颌前突</a></li>
+        </ul>
+        <ul>牙齿美白
+          <li><a href="javascript:;">烤瓷牙</a></li>
+          <li><a href="javascript:;">冷光美白</a></li>
+          <li><a href="javascript:;">瓷贴面修复</a></li>
+          <li><a href="javascript:;">树脂美学修复</a></li>
+          <li><a href="javascript:;">牙色异常</a></li>
+          <li><a href="javascript:;">形态异常</a></li>
+        </ul>
+        <ul>儿童牙齿
+          <li><a href="javascript:;">蛀牙龋齿</a></li>
+          <li><a href="javascript:;">恒牙不萌 </a></li>
+          <li><a href="javascript:;">乳牙滞留</a></li>
+          <li><a href="javascript:;">窝沟封闭</a></li>
+          <li><a href="javascript:;">无痛补牙</a></li>
+          <li><a href="javascript:;">儿童正畸</a></li>
+        </ul>
+        <ul>全科牙齿
+          <li><a href="javascript:;">根管治疗</a></li>
+          <li><a href="javascript:;">牙周炎</a></li>
+          <li><a href="javascript:;">牙龈炎</a></li>
+          <li><a href="javascript:;">口腔溃疡</a></li>
+          <li><a href="javascript:;">牙齿松动</a></li>
+          <li><a href="javascript:;">无痛拔牙</a></li>
+          <li><a href="javascript:;">智齿</a></li>
+          <li><a href="javascript:;">假牙</a></li>
+          <li><a href="javascript:;">镶牙</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="banner">
+  <div class="hd">
+    <ul></ul>
+  </div>
+  <div class="bd">
+    <ul>
+      <li style="background: url(images/b1.jpg) no-repeat center;background-size: cover;"></li>
+      <li style="background: url(images/b2.jpg) no-repeat center;background-size: cover;"></li>
+    </ul>
+  </div>
+</div>
+<div class="special wrap">
+  <a class="prev iconfont">&#xe603;</a>
+  <a class="next iconfont">&#xe601;</a>
+  <div class="bd wrap">
+    <ul>
+      <li><a href="javascript:;"><span class="iconfont">&#xe688;</span>牙齿种植</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe602;</span>牙齿矫正</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe619;</span>隐形矫正</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe67f;</span>瓷贴面</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe686;</span>美牙冠</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe687;</span>缺牙镶牙</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe611;</span>烤瓷牙</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe613;</span>全瓷牙</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe600;</span>牙齿美白</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe638;</span>儿童牙齿</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe689;</span>拔牙</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe67e;</span>牙疼治疗</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe684;</span>洁牙</a></li>
+      <li><a href="javascript:;"><span class="iconfont">&#xe64e;</span>牙周治疗</a></li>
+    </ul>
+  </div>
+</div>
+  <div class="SiteSkin"> <div class="ObjLeft">
+    <div class="NavSkin">
+      <div class="NavTop"></div>
+      <ul class="NavList">
+      <li><a href="/about/about.html" target="_blank" >关于双合 / About</a></li>
+      <li><a href="/news/"  target="_blank">特色医疗 / Characteristics</a></li>
+      <li><a href="/case/" target="_blank" >服务项目/ Service item </a></li>
+      <li><a href="/environment/" target="_blank" >双合案例 / Case</a></li>
+      <li><a href="/zjtd/" target="_blank" >医生简介 / Profile </a></li>
+      <li><a href="/about/ysfc.html" target="_blank" >医院环境 / Environment </a></li>
+      <li><a href="/about/job.html" target="_blank" >学术交流 / Academic exchange </a></li>
+      <li><a href="/about/process.html"  target="_blank">就诊流程 / Process </a></li>
+      <li><a href="/about/beihu.html" target="_blank" >联系我们 / Contacts </a></li>
+      </ul>
+      <div class="NavEnd"></div>
+    </div>
+  </div>
+  <div class="ObjRight">
+    <div class="ArticleTop">
+      <div class="Site"><span>当前位置:</span> <a href='/'>首页</a> > <a href='/about/'>关于双合</a> > <a href='/news/'>双合动态</a> > </div>
+    </div>
+    <div class="info_right">
+      <div class="info_list">
+      <dl>
+          <dt><a href="/news/3604.html" target="_blank"><img src="images/1-1F5311029560-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-05-31</span> <a href="/news/3604.html" title="<b> 徐安斌、周先明受邀赴香港进行种植牙学术交流</b>" target="_blank"><b> 徐安斌、周先明受邀赴香港进行种植牙学术交流</b></a> </h2>
+            <p> 5月14-17日，徐安斌院长、周先明院长受邀前往香港进行种植牙学术交流。期间，他们在全球最大的专业牙科产品和技术制造商——西诺德培训中心，与众多优秀的专家、学者一起学习， ....<a href="/news/3604.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3602.html" target="_blank"><img src="images/1-1F5231U0280-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-05-23</span> <a href="/news/3602.html" title="<b>双合健康小课堂——儿童龋病早期预防</b>" target="_blank"><b>双合健康小课堂——儿童龋病早期预防</b></a> </h2>
+            <p> 2017年5月19日，我们请来了DMG儿童口腔预防系列产品的厂家、武大口腔的儿童口腔科主任宋光泰教授以及来自各个医院的20多名儿童口腔医生。 ....<a href="/news/3602.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3601.html" target="_blank"><img src="images/1-1F51Q000320-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-05-18</span> <a href="/news/3601.html" title="<b>双合真人种牙直播 巅峰演绎高峰种植技术！</b>" target="_blank"><b>双合真人种牙直播 巅峰演绎高峰种植技术！</b></a> </h2>
+            <p> 登士柏西诺德种植前牙美学武汉操作班，在双合口腔北湖旗舰院盛大开课。此次课程很荣幸了邀请到了武大口腔的施斌、周毅教授两位教授。 ....<a href="/news/3601.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3599.html" target="_blank"><img src="images/5-1F515110144339.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-05-15</span> <a href="/news/3599.html" title="湖北省种植学术交流研讨会在我院圆满结束" target="_blank">湖北省种植学术交流研讨会在我院圆满结束</a> </h2>
+            <p> 2017年5月13日，由诺保科主办，双合口腔承办的“湖北省种植学术交流研讨会”在双合口腔北湖旗舰院盛大召开。 ....<a href="/news/3599.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3595.html" target="_blank"><img src="images/1-1F4291020360-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-04-29</span> <a href="/news/3595.html" title="<b>双合“小小牙医”课堂走进亿童027幼儿园</b>" target="_blank"><b>双合“小小牙医”课堂走进亿童027幼儿园</b></a> </h2>
+            <p> 双合口腔医院的医护们受邀走进亿童027幼儿园，10个班，300个学生，全部变身小牙医，开展了一场丰富多彩的爱牙护牙宣传教育活动。 ....<a href="/news/3595.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3594.html" target="_blank"><img src="images/1-1F426155R20-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-04-26</span> <a href="/news/3594.html" title="<b>双合口腔在洪山体育馆为车主提供口腔科普</b>" target="_blank"><b>双合口腔在洪山体育馆为车主提供口腔科普</b></a> </h2>
+            <p> 2017首届大型万人续保节于4月21日——4月23日在洪山广场举办。我院科普团队倾力加入，热情参与！ ....<a href="/news/3594.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3593.html" target="_blank"><img src="images/5-1F426104HH30.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-04-26</span> <a href="/news/3593.html" title="<b>双合为中信银行打造VIP客户小牙医专场活动</b>" target="_blank"><b>双合为中信银行打造VIP客户小牙医专场活动</b></a> </h2>
+            <p> 2017年4月22日， 双合口腔 为 中信银行VIP客户 精心打造的小牙医专场活动如期举行，本次活动共 15组 家庭参加，活动通过口腔知识讲座，学习正确的刷牙方法，小牙医职业体验、口腔 ....<a href="/news/3593.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3591.html" target="_blank"><img src="images/1-1F422114H90-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-04-22</span> <a href="/news/3591.html" title="双合口腔科普团队走进卓尔集团" target="_blank">双合口腔科普团队走进卓尔集团</a> </h2>
+            <p> 4月20日，双合口腔科普团队有幸走进中国企业500强——卓尔集团总部，为卓尔员工开展了一场精彩纷呈的口腔知识科普讲座 ....<a href="/news/3591.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3589.html" target="_blank"><img src="images/1-1F41QG5230-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-04-18</span> <a href="/news/3589.html" title="<b>我院联合家长100第三届牙齿矫正讲座圆满结束</b>" target="_blank"><b>我院联合家长100第三届牙齿矫正讲座圆满结束</b></a> </h2>
+            <p> 4月15、16两日，我院联合家长100联手举办了“第三届关爱青少年畸形牙公益讲座”，获得家长们的一致好评！ ....<a href="/news/3589.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl><dl>
+          <dt><a href="/news/3588.html" target="_blank"><img src="images/1-1F4151H5170-L.jpg" onload="DrawImage(this)" height="90" width="136"></a></dt>
+          <dd>
+            <h2> <span>2017-04-15</span> <a href="/news/3588.html" title="<b>双合正畸团队共赴2017 Ormco FORUM全球正畸论坛</b>" target="_blank"><b>双合正畸团队共赴2017 Ormco FORUM全球正畸论坛</b></a> </h2>
+            <p> 4月5日-4月7日，我院正畸团队再次受邀2017 Ormco FORUM全球正畸论坛。李海玲、万丽、高萌萌三位主任与1000多位来自世界各地的正畸专家面对面交流、开启了一场职业进阶之旅。 ....<a href="/news/3588.html" target="_blank">[详细]</a> </p>
+          </dd>
+        </dl>
+      </div>
+    </div>
+    <div class="Pages"><li>首页</li>
+<li class="thisclass">1</li>
+<li><a href='list_21_2.html'>2</a></li>
+<li><a href='list_21_3.html'>3</a></li>
+<li><a href='list_21_4.html'>4</a></li>
+<li><a href='list_21_5.html'>5</a></li>
+<li><a href='list_21_6.html'>6</a></li>
+<li><a href='list_21_7.html'>7</a></li>
+<li><a href='list_21_8.html'>8</a></li>
+<li><a href='list_21_9.html'>9</a></li>
+<li><a href='list_21_10.html'>10</a></li>
+<li><a href='list_21_11.html'>11</a></li>
+<li><a href='list_21_2.html'>下一页</a></li>
+<li><a href='list_21_14.html'>末页</a></li>
+</div>
+    <div class="Clear"></div>
+    <div class="ArticleEnd"></div>
+  </div>
+
+  <div class="Clear"></div>
+</div>
+ <div class="wave-box">
+
+    <div class="marquee-box marquee-up" id="marquee-box">
+        <div class="marquee">
+            <div class="wave-list-box" id="wave-list-box1">
+                <ul>
+                    <li><img height="60" alt="波浪" src="images/wave_02.png"></li>
+                </ul>
+            </div>
+            <div class="wave-list-box" id="wave-list-box2">
+                <ul>
+                    <li><img height="60" alt="波浪" src="images/wave_02.png"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="marquee-box" id="marquee-box3">
+        <div class="marquee">
+            <div class="wave-list-box" id="wave-list-box4">
+                <ul>
+                    <li><img height="60" alt="波浪" src="images/wave_03.png"></li>
+                </ul>
+            </div>
+            <div class="wave-list-box" id="wave-list-box5">
+                <ul>
+                    <li><img height="60" alt="波浪" src="images/wave_03.png"></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer">
+  <div class="wrap">
+    <div class="footer-logo">
+      <img src="images/logo2.png" alt="" />
+    </div>
+    <div class="footer-info">
+      <div class="foot-nav">
+        <dl>
+          <dt><span class="iconfont">&#xe688;</span><a href="javascript:;">牙齿种植</a></dt>
+          <dd><a href="javascript:;">全口缺牙</a></dd>
+          <dd><a href="javascript:;">半口缺失</a></dd>
+          <dd><a href="javascript:;">颗缺失多</a></dd>
+          <dd><a href="javascript:;">单颗缺失</a></dd>
+          <dd><a href="javascript:;">即刻种植</a></dd>
+          <dd><a href="javascript:;">美学种植</a></dd>
+        </dl>
+        <dl>
+          <dt><span class="iconfont">&#xe602;</span><a href="javascript:;">牙齿矫正</a></dt>
+          <dd><a href="javascript:;">龅（暴）牙</a></dd>
+          <dd><a href="javascript:;">地包天</a></dd>
+          <dd><a href="javascript:;">牙间隙</a></dd>
+          <dd><a href="javascript:;">牙齿不齐</a></dd>
+          <dd><a href="javascript:;">牙错位</a></dd>
+          <dd><a href="javascript:;">牙齿拥挤</a></dd>
+          <dd><a href="javascript:;">前牙开颌</a></dd>
+          <dd><a href="javascript:;">双颌前突</a></dd>
+        </dl>
+        <dl>
+          <dt><span class="iconfont">&#xe600;</span><a href="javascript:;">牙齿美容</a></dt>
+          <dd><a href="javascript:;">烤瓷牙</a></dd>
+          <dd><a href="javascript:;">冷光美白</a></dd>
+          <dd><a href="javascript:;">瓷贴面修复</a></dd>
+          <dd><a href="javascript:;">树脂美学修复</a></dd>
+          <dd><a href="javascript:;">牙色异常</a></dd>
+          <dd><a href="javascript:;">形态异常</a></dd>
+        </dl>
+        <dl>
+          <dt><span class="iconfont">&#xe638;</span><a href="javascript:;">儿童牙齿</a></dt>
+          <dd><a href="javascript:;">蛀牙龋齿</a></dd>
+          <dd><a href="javascript:;">恒牙不萌 </a></dd>
+          <dd><a href="javascript:;">乳牙滞留</a></dd>
+          <dd><a href="javascript:;">窝沟封闭</a></dd>
+          <dd><a href="javascript:;">无痛补牙</a></dd>
+          <dd><a href="javascript:;">儿童正畸</a></dd>
+        </dl>
+        <dl>
+          <dt><span class="iconfont">&#xe65f;</span><a href="javascript:;">全科治疗</a></dt>
+          <dd><a href="javascript:;">根管治疗</a></dd>
+          <dd><a href="javascript:;">牙周炎</a></dd>
+          <dd><a href="javascript:;">牙龈炎</a></dd>
+          <dd><a href="javascript:;">口腔溃疡</a></dd>
+          <dd><a href="javascript:;">牙齿松动</a></dd>
+          <dd><a href="javascript:;">无痛拔牙</a></dd>
+          <dd><a href="javascript:;">智齿</a></dd>
+          <dd><a href="javascript:;">假牙</a></dd>
+          <dd><a href="javascript:;">镶牙</a></dd>
+        </dl>
+      </div>
+      <div class="foot-addr">
+        <p>中华北：中华北大街与市庄路交口北100米路西（博爱医院对面） 电话：0311-88887773 </p>
+        <p>平安北：和平路与平安大街交口南200米路东（礼域尚城北区西门） 电话：0311-86089069</p>
+        <p>北站：市庄路与泰华街交口东300米路北（汽车北站西邻） 电话：0311-87820248</p>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="js/jquery.SuperSlide.2.1.1.js" type="text/javascript"></script>
+<script src="js/common.js" type="text/javascript"></script>
+</body>
+</html>
+

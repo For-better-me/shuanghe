@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<META content="MSHTML 6.00.2800.1479" name=GENERATOR>
+</HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>抱歉，我们找不到您要的页面-武汉爱齿尔口腔</title>
+<style>
+body { background-image: url(images/bj.gif); width: 840px; margin: 0 auto; color: #333; font-size: 14px; TEXT-ALIGN: center }
+html, ul, li, p { padding: 0; margin: 0; }
+.bg { background: url(images/404bg.jpg) no-repeat; margin-top: 160px; width: 840px; height: 228px; }
+a { color: #0F84BD; text-decoration: none; }
+a:hover { text-decoration: underline; }
+p { padding: 102px 0 0 283px; }
+ul { width: 530px; list-style: none; padding: 13px 0 0 283px; }
+li { width: 22.1%; float: left; list-style: none; line-height: 28px; background: url(images/ico.gif) 5px 11px no-repeat; padding-left: 15px }
+</style>
+</head>
+<body>
+<div class="bg">
+  <p><a href="http://www.hbkqw.com/">武汉爱齿尔口腔</a> <a href="http://www.hbkqw.com/">www.hbkqw.com</a></p>
+</div>
+<SCRIPT>
+
+t="抱歉，我们找不到您要的页面！正在载入 hbkqw.com 首页.......<div align=left style=\"border:black 1px solid;width:401px\">"+
+
+"<img src=001.gif height=12 id=chart width=0></div><div id=percent></div>"
+
+document.write(t)
+
+a_mo=0
+
+function count(){a_mo++
+
+chart.width=4*a_mo
+
+percent.innerText=a_mo+"%"
+
+if(a_mo<100)setTimeout("count()",60)
+
+else window.location="http://www.hbkqw.com/"}
+
+count()
+
+</SCRIPT>
+<div>
+<br />
+<br />
+合作伙伴
+<ul>
+  <li><a href="http://www.hbws.gov.cn/" target="_blank">湖北省卫生厅</a></li>
+  <li><a href="http://www.whwsj.gov.cn/" target="_blank">武汉市卫生局</a></li>
+</ul>
+</div>
+</body>
+</html>
